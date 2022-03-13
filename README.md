@@ -1,5 +1,6 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz GİT Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındıyor.
+<img src="assets/githun.png"/>
 
 # Installation
 Öncelikle projeyi clonelayın. 
@@ -18,5 +19,5 @@ Pull requestler kabul edilir. Büyük değişiklilkler için, şütfen önce ney
 
 # License
 
-MIT
+<a href="https://choosealicense.com/licenses/mit/">MIT</a>
 
